@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm @phoozies!
 
-<!--
-**phoozies/phoozies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm early in my journey as a **Software Engineer**, and I'm passionate about building meaningful and fun projects.  
+I've developed multiple projects for school and hackathons — here are a few I'm proud of:
 
-Here are some ideas to get you started:
+- 🚀 [TechReady](https://github.com/Loganaan/techready): A website for helping students get ready and prepped for both technical and behavioural interviews.
+- ☄️ [NASA Meteor Madness](https://github.com/phoozies/nasa-meteor-madness): A simulation website built for NASA 2025 Space Apps hackathon.
+- 🌐 [My Portfolio Website](https://phoozies.github.io/my-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/thinhpvo/)
+- 🧑‍💻 [GitHub Repositories](https://github.com/phoozies?tab=repositories)
+
+---
+
+### 😄 Fun Facts
+- 🎮 I like to play **Roblox** and **Valorant** — and yes, I *will* throw my friends’ elo 😅
+
+---
