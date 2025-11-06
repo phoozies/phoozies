@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm @phoozies!
 
-I'm early in my journey as a **Software Engineer**, and I'm passionate about building meaningful and fun projects.  
+I'm early in my journey as a **Software Engineer**! I'm always excited to build meaningful and fun projects.  
 I've developed multiple projects for school and hackathons — here are a few I'm proud of:
 
 - 🚀 [TechReady](https://github.com/Loganaan/techready): A website for helping students get ready and prepped for both technical and behavioural interviews.
@@ -11,8 +11,6 @@ I've developed multiple projects for school and hackathons — here are a few I'
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/thinhpvo/)
-- 🧑‍💻 [GitHub Repositories](https://github.com/phoozies?tab=repositories)
-
 ---
 
 ### 😄 Fun Facts
