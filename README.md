@@ -14,6 +14,6 @@ I've developed multiple projects for school and hackathons; here are a few I'm p
 ---
 
 ### 😄 Fun Facts
-- 🎮 Some video games I like to play are **Roblox** and **Valorant**! of course, I *will* throw my friends’ elo 😀
+- 🎮 Some video games I like to play are **Roblox**, **Valorant**, and **Overwatch**! Of course, I *will* throw my friends’ elo 😀
 
 ---
